@@ -3,7 +3,7 @@ A simple web application that allows the user to maintain a list of categorized 
 
 ## Installation
 
-To install Novelita on your local machine, make sure you do the following:
+To install MyLocations on your local machine, make sure you do the following:
 
 - Clone this repository into the desired folder by typing the following command:
 ```sh
