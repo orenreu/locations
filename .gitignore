@@ -55,3 +55,7 @@ bundle.js.map
 rethinkdb_data
 bundle.map
 public/uploads
+
+# Public #
+######################
+public/bundle.js
