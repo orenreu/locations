@@ -23475,10 +23475,7 @@ var Categories = function (_React$Component) {
     function Categories() {
         _classCallCheck(this, Categories);
 
-        var _this = _possibleConstructorReturn(this, (Categories.__proto__ || Object.getPrototypeOf(Categories)).call(this));
-
-        _this.unselectCategory = _this.unselectCategory.bind(_this);
-        return _this;
+        return _possibleConstructorReturn(this, (Categories.__proto__ || Object.getPrototypeOf(Categories)).apply(this, arguments));
     }
 
     _createClass(Categories, [{

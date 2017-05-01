@@ -14,10 +14,6 @@ import Theme from '../../config/theme'
 
 
 class Categories extends React.Component {
-    constructor() {
-        super()
-        this.unselectCategory = this.unselectCategory.bind(this)
-    }
 
     componentWillUnmount() {
         this.props.selectCategory(null)
