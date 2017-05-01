@@ -7,7 +7,7 @@ To install Novelita on your local machine, make sure you do the following:
 
 - Clone this repository into the desired folder by typing the following command:
 ```sh
-git clone https://github.com/Novelita/novelita-web.git [TARGET_DIRECTORY]
+git clone https://github.com/orenreu/locations [TARGET_DIRECTORY]
 ```
 - Install all required modules by typing the following command:
 ```sh
