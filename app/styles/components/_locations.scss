@@ -1,0 +1,21 @@
+.search-location-button {
+  padding-top: 28px;
+}
+
+.locations-list {
+  margin-top: 8px;
+}
+
+.location-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
+
+  h5 {
+    font-weight: 600;
+    span{
+      font-weight: 400;
+    }
+  }
+}
